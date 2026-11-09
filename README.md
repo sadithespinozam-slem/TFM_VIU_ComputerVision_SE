@@ -1,6 +1,4 @@
-# TFM VIU
-
-**Comparación de técnicas de generación de datasets sintéticos para visión por computador en entornos de retail**
+# Comparación de técnicas de generación de datasets sintéticos para visión por computador en entornos de retail
 
 Trabajo de Fin de Máster — Máster en Big Data y Ciencia de Datos, Universidad Internacional de Valencia (VIU).
 Autora: Sadith Espinoza.
