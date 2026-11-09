@@ -1,4 +1,4 @@
-# TFM_VIU_ComputerVision_SE
+# TFM VIU
 
 **Comparación de técnicas de generación de datasets sintéticos para visión por computador en entornos de retail**
 
